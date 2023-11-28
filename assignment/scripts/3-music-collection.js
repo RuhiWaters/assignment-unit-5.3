@@ -82,7 +82,6 @@ console.log("Found Artist (Pinegrove):", findByArtist(myCollection, "Pinegrove")
 
 
 
-
 // ### Extra Stretchy Stretch Goals
 
 // - **NOTE**: The following stretch goals **do not have tests** associated with them.
